@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP_Lesson6_Solid.iml" filepath="$PROJECT_DIR$/OOP_Lesson6_Solid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidDip/SolidDip.iml" filepath="$PROJECT_DIR$/SolidDip/SolidDip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidIsp1/SolidIsp1.iml" filepath="$PROJECT_DIR$/SolidIsp1/SolidIsp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidLsp1/SolidLsp1.iml" filepath="$PROJECT_DIR$/SolidLsp1/SolidLsp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidLsp2/SolidLsp2.iml" filepath="$PROJECT_DIR$/SolidLsp2/SolidLsp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidOcp1/SolidOcp1.iml" filepath="$PROJECT_DIR$/SolidOcp1/SolidOcp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidSrp1/SolidSrp1.iml" filepath="$PROJECT_DIR$/SolidSrp1/SolidSrp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidSrp2/SolidSrp2.iml" filepath="$PROJECT_DIR$/SolidSrp2/SolidSrp2.iml" />
+    </modules>
+  </component>
+</project>

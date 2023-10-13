@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d497855-de64-488c-b006-6d3012f16a00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/builder/builder/BusinessCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/BusinessCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/builder/builder/BusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/BusinessCardBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/builder/builder/LargeBusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/LargeBusinessCardBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/builder/builder/SmallBusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/SmallBusinessCardBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chain/EmailNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/EmailNotifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chain/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/Notifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chain/Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chain/SMSNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/SMSNotifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chain/SimpleNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/SimpleNotifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/DeveloperDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/DeveloperDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/SeniorDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/SeniorDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/SigleDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/SigleDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/singleton/SingleResourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/SingleResourse.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2HuXthZLcIl9EbqUSuYP8RDaDL3" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/behavioral/observer" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aktyb\ideaProject\patterns1\src\behavioral\observer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.builder.Main" />
+      <module name="patterns1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creational.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.decorator.Main" />
+      <module name="patterns1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.chain.Main" />
+      <module name="patterns1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.chain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d497855-de64-488c-b006-6d3012f16a00" name="Default Changelist" comment="" />
+      <created>1669136158556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669136158556</updated>
+      <workItem from="1669136161607" duration="5020000" />
+      <workItem from="1677783185407" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
